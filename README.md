@@ -23,4 +23,4 @@ You will need to install Python on your computer since this requires the files t
 You can download Python here: https://www.python.org/downloads/
 
 # Running the game
-Once you download the latest release of Python to your computer, just double click the .py file located in the full release and enjoy!
+Once you download the latest release of Python to your computer, just double click the .py file located in the latest full release and enjoy!
