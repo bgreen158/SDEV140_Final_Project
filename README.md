@@ -1,9 +1,9 @@
 # SDEV 140 Final Project - Airplanes & Missiles!
-This repository is for my Final project in my SDEV 140 class. The goal is to create a tkinter based program with GUI elements and more.
+This repository is for my final project in my SDEV 140 class. The goal is to create a tkinter based program with GUI elements and more.
 I had decided on making a Galaga/Asteroids-like game for this project and had a lot of fun making it!
 # Overview
 
-My idea started out as The player would control an object that would move around the screen and shoot other incoming objects coming from the top of the screen. I eventually settled on some kind of aircraft shooting down missiles over the sea or sky.
+My idea started out as the player would control an object that would move around the screen and shoot other incoming objects coming from the top of the screen. I eventually settled on some kind of aircraft shooting down missiles over the sea or sky.
 In the beginning, I originally wanted to make a time limit to survive, but I thought it would be more interesting for the game to progressively get harder the more time went on and would make the player want to try again to beat their high score.
 
 # Controls
