@@ -1,4 +1,4 @@
-# SDEV140 Final Project - Airplanes & Missiles!
+# SDEV 140 Final Project - Airplanes & Missiles!
 This repository is for my Final project in my SDEV 140 class. The goal is to create a tkinter based program with GUI elements and more.
 I had decided on making a Galaga/Asteroids-like game for this project and had a lot of fun making it!
 # Overview
@@ -23,4 +23,4 @@ You will need to install Python on your computer since this requires the files t
 You can download Python here: https://www.python.org/downloads/
 
 # Running the game
-Once you download the latest release of Python to your computer, just double click the .py file located in the latest full release and enjoy!
+Once you download the latest release of Python to your computer, just double click the .py file located in the latest full release to run the game and enjoy!
